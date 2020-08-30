@@ -1,0 +1,22 @@
+{
+  "name": "recruitment_task",
+  "version": "1.0.0",
+  "description": "trello.com login page tests",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "testcafe": "1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubuch/packhelp_task.git"
+  },
+  "author": "Jakub Smolarczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubuch/packhelp_task/issues"
+  },
+  "homepage": "https://github.com/kubuch/packhelp_task#readme"
+}
